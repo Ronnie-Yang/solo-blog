@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Python3安装之一键部署（centos7）](http://www.yanggongzi.top/articles/2019/12/11/1576050750912.html)
 * [Docker系列—08、访问 Docker 仓库](http://www.yanggongzi.top/Docker-study-08)
 * [ Docker系列—07、操作 Docker 容器](http://www.yanggongzi.top/Docker-study-07)
 * [Docker系列—06、Docker 构建上下文](http://www.yanggongzi.top/Docker-study-06)
